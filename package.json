@@ -1,0 +1,16 @@
+{
+  "name": "atomable-webpack-plugin",
+  "version": "0.0.1",
+  "description": "atomable webpack plugin for bundling before deployment",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/atomable/webpack-plugin.git"
+  },
+  "author": "atomable",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/atomable/webpack-plugin/issues"
+  },
+  "homepage": "https://github.com/atomable/webpack-plugin#readme"
+}
